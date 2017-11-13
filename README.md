@@ -5,13 +5,13 @@
 
 - 作为该项目的第一块开发板，我选择了2017年度最受关注的跨界MCU-- **NXP i.MX RT-1050**。官方的开发板MIMXRT1050-EVK和对应的屏已经采购到货，将第一时间为大家服务，运行大家提交的代码，展示运行效果。    
 
-     - [开箱教程](https://www.nxp.com/support/developer-resources/software-development-tools/i.mx-developer-resources/i.mx-rt1050-evaluation-kit:MIMXRT1050-EVK?&tab=In-Depth_Tab&tid=vanMIMXRT1050-EVK/startnow)    
+    - [开箱教程](https://www.nxp.com/support/developer-resources/software-development-tools/i.mx-developer-resources/i.mx-rt1050-evaluation-kit:MIMXRT1050-EVK?&tab=In-Depth_Tab&tid=vanMIMXRT1050-EVK/startnow)    
      
-     - [官网开发板信息](https://www.nxp.com/support/developer-resources/software-development-tools/i.mx-developer-resources/i.mx-rt1050-evaluation-kit:MIMXRT1050-EVK)    
+    - [官网开发板信息](https://www.nxp.com/support/developer-resources/software-development-tools/i.mx-developer-resources/i.mx-rt1050-evaluation-kit:MIMXRT1050-EVK)    
      
-     - [i.MX RT 1050芯片官网信息](https://www.nxp.com/products/microcontrollers-and-processors/applications-processors/i.mx-applications-processors/i.mx-rt-series/i.mx-rt1050-crossover-processor-with-arm-cortex-m7-core:i.MX-RT1050)     
+    - [i.MX RT 1050芯片官网信息](https://www.nxp.com/products/microcontrollers-and-processors/applications-processors/i.mx-applications-processors/i.mx-rt-series/i.mx-rt1050-crossover-processor-with-arm-cortex-m7-core:i.MX-RT1050)     
 
-     - **QQ交流群：450919784**     
+    - **QQ交流群：450919784**     
      
 
 - ![](https://github.com/ianhom/Note-of-all/blob/master/Pic/Misc/MIMXRT1050-EVK-DEVICE.jpg?raw=true)     
