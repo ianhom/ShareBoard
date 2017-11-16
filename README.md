@@ -9,8 +9,10 @@
 
     * [官网开发板信息](https://www.nxp.com/support/developer-resources/software-development-tools/i.mx-developer-resources/i.mx-rt1050-evaluation-kit:MIMXRT1050-EVK)    
      
-    * [i.MX RT 1050芯片官网信息](https://www.nxp.com/products/microcontrollers-and-processors/applications-processors/i.mx-applications-processors/i.mx-rt-series/i.mx-rt1050-crossover-processor-with-arm-cortex-m7-core:i.MX-RT1050)     
-
+    * [i.MX RT 1050芯片官网信息](https://www.nxp.com/products/microcontrollers-and-processors/applications-processors/i.mx-applications-processors/i.mx-rt-series/i.mx-rt1050-crossover-processor-with-arm-cortex-m7-core:i.MX-RT1050)   
+    
+    * [开发板简单试用](http://mp.weixin.qq.com/s/h5Pynula3K1G9qBOScv5jA)    
+    
     * **QQ交流群：450919784**     
      
 
