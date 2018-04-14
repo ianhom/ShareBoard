@@ -3,7 +3,7 @@
 - ![](./pic/ShareBoard_All.png)     
 - 我已经有180多块开发板，但精力有限不能全部全面探索，束之高阁，实之可惜。正所谓独乐乐不如众乐乐，在满足个人开发板小小收集癖的同时，亦要发挥其应有的作用，发扬“云养猫”的模式，在此建立 **“ShareBoard(享板)”** 这个简称为“SB”的项目。大家可以在这里上传开发板的代码相互交流，而我会尽力用我自己的开发板为大家测试和展示代码效果，目前试运行采用人肉运维，在未来将会提供更便捷的方式给大家测试和体验开发板。
 
-- 作为该项目的第一块开发板，我选择了2017年度最受关注的跨界MCU-- **NXP i.MX RT-1050**。官方的开发板MIMXRT1050-EVK和对应的屏已经采购到货，将第一时间为大家服务，运行大家提交的代码，展示运行效果。      
+- 作为该项目的第一块开发板，我选择了2017年度最受关注的跨界MCU-- **NXP i.MX RT-1050**。      
 
     * [ShareBoard-iMXRT1050众筹板](https://github.com/Share-Board/ShareBoard-iMXRT1050)     
     ![](https://github.com/Share-Board/ShareBoard-iMXRT1050/blob/master/Pic/PCB_Front_size400.png?raw=true)    
