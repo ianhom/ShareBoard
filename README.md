@@ -11,7 +11,7 @@
     * [官方开发板](https://www.nxp.com/products/processors-and-microcontrollers/applications-processors/i.mx-applications-processors/i.mx-rt-series/i.mx-rt1050-evaluation-kit:MIMXRT1050-EVK)     
     - ![](https://github.com/ianhom/Note-of-all/blob/master/Pic/Misc/MIMXRT1050-EVK-DEVICE.jpg?raw=true)  
     
-    * [官方开发板简单试用](http://mp.weixin.qq.com/s/h5Pynula3K1G9qBOScv5jA)    
+    * [官方开发板简单试用](http://mp.weixin.qq.com/s/h5Pynula3K1G9qBOScv5jA)    
     
     * **QQ交流群：450919784**     
      
