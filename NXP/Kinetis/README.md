@@ -1,0 +1,4 @@
+# Kinetis Serial
+- FRDM-KL25Z
+- FRDM-KL02Z
+- KL27-MINI
